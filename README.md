@@ -1,6 +1,14 @@
 # ArduIndy
 Arduboy game
-Using Arduino 1.6.12 and Arduboy Lib 1.1.1
+
+Version 2.00:
+Using Arduino 1.6.12 and Arduboy2 Library.
+
+Updated to have more kinds of enemies, more things to find in the maze, like apples, coffee, flowers, potion and extra lives.
+Beware of the skull enemy, not easy to kill!
+
+Version 1.00:
+Using Arduino 1.6.12 and Arduboy Lib 1.1.1.
 
 It is an action game inspired by the ZX Spectrum game "Sabre Wulf".
 
