@@ -1,7 +1,7 @@
 # ArduIndy
 Arduboy game
 
-Verdion 2.50:
+Version 2.50:
 -------------
 Using Arduino 1.6.12 and Arduboy2 Library.
 
